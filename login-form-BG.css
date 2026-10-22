@@ -37,7 +37,7 @@ form::before {
   transform: translateX(-50%);
   height: 35px;
   width: 68px;
-  background-image:url(imageS/triangle.png);
+  background-image:url(triangle.png);
   background-repeat:no-repeat 0 0;
   content: '';
 }
