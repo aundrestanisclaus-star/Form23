@@ -86,10 +86,10 @@ form::before {
   width: 20px; height: 20px;
   border: none; }
 .pass {
-  background: url(images/pass.png) no-repeat 12px 10px #efe1c4;
+  background: url(pass.png) no-repeat 12px 10px #efe1c4;
 }
 .name {
-  background: url(images/user.png)
+  background: url(user.png)
 no-repeat 12px 10px #efe1c4;
 }
 
